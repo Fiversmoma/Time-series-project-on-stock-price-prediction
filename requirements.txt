@@ -1,5 +1,5 @@
 statsmodels==0.13.5
-streamlit==1.16.0
+streamlit==0.71.0
 pandas==1.5.2
 numpy==1.23.5
 requests==2.28.1
